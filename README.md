@@ -2,6 +2,8 @@
 
 This is a button component library.
 
+online demo: https://button-comp-page-ks83g6r0t-asefa96.vercel.app/
+
 ## installation
 ```
 npm i @asefa96/button-component-library
